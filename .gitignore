@@ -1,4 +1,4 @@
-# This repo is PUBLIC and hosts only the IPPT Encik support and privacy pages.
+# This repo is PUBLIC and hosts only the Baito support and privacy pages.
 # No app source, no build output, no data ever belongs here.
 #
 # Everything is ignored by default; the site files are allowlisted below.
@@ -10,5 +10,6 @@
 !index.html
 !privacy.html
 !style.css
+!icon.png
 !.gitignore
 !README.md
